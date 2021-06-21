@@ -141,6 +141,37 @@ INSERT INTO `locations_city` (`id`, `ctity`) VALUES (17, 'Boganview');
 INSERT INTO `locations_city` (`id`, `ctity`) VALUES (18, 'Hegmannburgh');
 INSERT INTO `locations_city` (`id`, `ctity`) VALUES (19, 'Meaganside');
 INSERT INTO `locations_city` (`id`, `ctity`) VALUES (20, 'South Darrelville');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (21, 'Port Joelleshire');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (22, 'Kirstinville');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (23, 'Schimmelfurt');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (24, 'South Shawna');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (25, 'East Otha');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (26, 'Howellberg');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (27, 'Zboncakshire');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (28, 'Rathtown');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (29, 'Kristinberg');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (30, 'Port Braedenton');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (31, 'Garnetview');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (32, 'Leuschkemouth');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (33, 'Ashlynnland');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (34, 'Arneland');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (35, 'Port Alexanderborough');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (36, 'East Janick');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (37, 'Boganview');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (38, 'Hegmannburgh');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (39, 'Meaganside');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (40, 'South Darrelville');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (41, 'Garnetview');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (42, 'Leuschkemouth');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (43, 'Ashlynnland');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (44, 'Arneland');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (45, 'Port Alexanderborough');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (46, 'East Janick');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (47, 'Boganview');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (48, 'Hegmannburgh');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (49, 'Meaganside');
+INSERT INTO `locations_city` (`id`, `ctity`) VALUES (50, 'South Darrelville');
+
 
 
 
@@ -164,6 +195,38 @@ INSERT INTO `locations_district` (`id`, `district`) VALUES (17, 'East');
 INSERT INTO `locations_district` (`id`, `district`) VALUES (18, 'East');
 INSERT INTO `locations_district` (`id`, `district`) VALUES (19, 'Port');
 INSERT INTO `locations_district` (`id`, `district`) VALUES (20, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (21, 'New');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (22, 'Port');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (23, 'Lake');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (24, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (25, 'Lake');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (26, 'Port');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (27, 'Port');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (28, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (29, 'East');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (30, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (31, 'Port');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (32, 'New');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (33, 'North');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (34, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (35, 'New');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (36, 'North');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (37, 'East');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (38, 'East');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (39, 'Port');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (40, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (41, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (42, 'New');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (43, 'North');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (44, 'South');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (45, 'New');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (46, 'North');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (47, 'East');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (48, 'East');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (49, 'Port');
+INSERT INTO `locations_district` (`id`, `district`) VALUES (50, 'South');
+
+
 
 
 
@@ -187,7 +250,36 @@ INSERT INTO `locations_house` (`id`, `house`) VALUES (17, 162);
 INSERT INTO `locations_house` (`id`, `house`) VALUES (18, 608);
 INSERT INTO `locations_house` (`id`, `house`) VALUES (19, 550);
 INSERT INTO `locations_house` (`id`, `house`) VALUES (20, 2110);
-
+INSERT INTO `locations_house` (`id`, `house`) VALUES (21, 8264);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (22, 71387);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (23, 60633);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (24, 9730);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (25, 23059);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (26, 1380);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (27, 33);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (28, 613);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (29, 34488);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (30, 45);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (31, 556);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (32, 59614);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (33, 3440);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (34, 7826);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (35, 4542);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (36, 22159);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (37, 162);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (38, 608);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (39, 550);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (40, 2110);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (41, 45);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (42, 59614);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (43, 3440);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (44, 7826);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (45, 4542);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (46, 22159);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (47, 162);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (48, 608);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (49, 550);
+INSERT INTO `locations_house` (`id`, `house`) VALUES (50, 2110);
 
 
 

@@ -1,0 +1,1 @@
+select count(gender) as count, gender from passport_citizens group by gender;
